@@ -161,6 +161,10 @@ p {
   text-decoration: underline;
 }
 
+.git-link {
+  color: var(--hover-color);
+}
+
 footer {
   font-family: "Quicksand", sans-serif;
   color: var(--hover-color);
