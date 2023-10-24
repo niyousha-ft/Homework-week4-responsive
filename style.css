@@ -175,10 +175,6 @@ p {
   color: var(--hover-color);
 }
 
-.contact-icon {
-  font-size: 20%;
-}
-
 footer {
   font-family: "Quicksand", sans-serif;
   color: var(--hover-color);
