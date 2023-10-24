@@ -86,6 +86,11 @@ p {
   text-align: center;
 }
 
+.whole-work {
+  padding: 60px 0 0 0;
+  text-align: center;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
